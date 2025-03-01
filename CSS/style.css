@@ -11,3 +11,18 @@ button {
     color: white;
     background-color: blue;
 }
+
+#p2 > h1{
+    color: #ffa511;
+    text-transform: uppercase;
+    text-align: center;
+    line-height: 1.5;
+    letter-spacing: 2px;
+    text-decoration: teal double underline;
+    font-size: 55px;
+    font-weight: 900;
+    font-family: 'League Spartan';
+    
+
+
+}
